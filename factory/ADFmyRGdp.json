@@ -1,0 +1,9 @@
+{
+	"name": "ADFmyRGdp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35a55a80-1892-492b-81a6-fe71db515f93",
+		"tenantId": "41dadb5d-1648-4bf2-ba34-41c4c9e0643f"
+	}
+}
